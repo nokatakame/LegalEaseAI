@@ -1,0 +1,6 @@
+[submodule "folder1"]
+	path = folder1
+	url = https://github.com/dny-777/legalease-ai-frontend
+[submodule "folder2"]
+	path = folder2
+	url = https://github.com/dny-777/legalease-ai-backend
