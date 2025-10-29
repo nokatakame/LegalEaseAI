@@ -1,0 +1,2 @@
+https://legalease-ai-frontend.vercel.app/
+https://legalease-ai-backend-production.up.railway.app/
